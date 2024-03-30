@@ -1,0 +1,4 @@
+Cloud computing is a technology to collab, create,operate and update on the data in nreal time.
+  Cloud computing is a cluster of multiple computers connected globally.
+  Cloud computing services are specified in IAAS,SAAS,PAAS.
+Cloud computing services majorily provided by AWS.GCP, AZURE in global market.
